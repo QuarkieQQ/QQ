@@ -56,122 +56,122 @@ Act 2 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																	
 Act 3 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																			0
 Act 4 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																			0
 Act 5 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																			0
-Act 1 Equip A	1	0	1						weap4	7	armo4	7																							0
-Act 1 Equip B	1	5	1						weap4	3	armo4	3	weap7	7	armo7	7																			0
-Act 1 Equip C	1	9	1						weap4	2	armo4	1	weap7	6	armo7	3	weap10	14	armo10	7	weap13	2	armo13	1											0
-Act 2 Equip A	1	12	1						weap7	2	armo7	1	weap10	6	armo10	3	weap13	14	armo13	7	weap16	2	armo16	1	Act 1 Equip C	30			36	66	0.4545				0
-Act 2 Equip B	1	15	1						weap10	2	armo10	1	weap13	6	armo13	3	weap16	14	armo16	7	weap19	2	armo19	1	Act 2 Equip A	60			36	96	0.6250				0
-Act 2 Equip C	1	18	1						weap13	2	armo13	1	weap16	6	armo16	3	weap19	14	armo19	7	weap22	2	armo22	1	Act 2 Equip B	80			36	116	0.6897				0
-Act 3 Equip A	1	20	1						weap16	2	armo16	1	weap19	6	armo19	3	weap22	14	armo22	7	weap25	2	armo25	1	Act 2 Equip C	100			36	136	0.7353				0
-Act 3 Equip B	1	22	1						weap19	2	armo19	1	weap22	6	armo22	3	weap25	14	armo25	7	weap28	2	armo28	1	Act 3 Equip A	200			36	236	0.8475				0
-Act 3 Equip C	1	24	1						weap22	2	armo22	1	weap25	6	armo25	3	weap28	14	armo28	7	weap31	2	armo31	1	Act 3 Equip B	340			36	376	0.9043				0
-Act 4 Equip A	1	26	1						weap25	2	armo25	1	weap28	6	armo28	3	weap31	14	armo31	4	weap34	2	armo34	1	Act 3 Equip C	430			33	463	0.9287				0
-Act 4 Equip B	1	29	1						weap28	2	armo28	1	weap31	6	armo31	3	weap34	14	armo34	3	weap37	2	armo37	1	Act 4 Equip A	500			32	532	0.9398				0
-Act 5 Equip A	1	32	1						weap28	2	armo28	1	weap31	6	armo31	3	weap34	14	armo34	3	weap37	7	armo37	5	Act 4 Equip B	629			41	670	0.9388				0
-Act 5 Equip B	1	34	1						weap31	2	armo31	1	weap34	6	armo34	2	weap37	14	armo37	7	weap40	2	armo40	1	Act 5 Equip A	731			35	766	0.9543				0
-Act 5 Equip C	1	36	1						weap31	2	armo31	1	weap34	6	armo34	2	weap37	14	armo37	7	weap40	2	armo40	1	Act 5 Equip B	833			35	868	0.9597				0
-Act 1 (N) Equip A	1	38	1						weap34	2	armo34	1	weap37	6	armo37	3	weap40	14	armo40	7	weap43	2	armo43	1	Act 5 Equip C	935			36	971	0.9629				0
-Act 1 (N) Equip B	1	40	1						weap34	2	armo34	1	weap37	6	armo37	3	weap40	14	armo40	7	weap43	6	armo43	3	Act 1 (N) Equip A	1105			42	1147	0.9634				0
-Act 1 (N) Equip C	1	42	1						weap37	2	armo37	1	weap40	6	armo40	3	weap43	14	armo43	7	weap46	2	armo46	1	Act 1 (N) Equip A	1020			36	1056	0.9659				0
-Act 2 (N) Equip A	1	44	1						weap37	2	armo37	1	weap40	6	armo40	3	weap43	14	armo43	7	weap46	6	armo46	3	Act 1 (N) Equip B	1233			42	1275	0.9671				0
-Act 2 (N) Equip B	1	46	1						weap40	2	armo40	1	weap43	6	armo43	3	weap46	14	armo46	7	weap49	2	armo49	1	Act 2 (N) Equip A	1105			36	1141	0.9684				0
-Act 2 (N) Equip C	1	48	1						weap40	2	armo40	1	weap43	6	armo43	3	weap46	14	armo46	7	weap49	6	armo49	3	Act 2 (N) Equip A	1318			42	1360	0.9691				0
-Act 3 (N) Equip A	1	50	1						weap43	2	armo43	1	weap46	6	armo46	3	weap49	14	armo49	7	weap52	2	armo52	1	Act 2 (N) Equip B	1190			36	1226	0.9706				0
-Act 3 (N) Equip B	1	52	1						weap43	2	armo43	1	weap46	6	armo46	3	weap49	14	armo49	7	weap52	6	armo52	3	Act 3 (N) Equip A	1445			42	1487	0.9718				0
-Act 3 (N) Equip C	1	54	1						weap46	2	armo46	1	weap49	6	armo49	3	weap52	14	armo52	7	weap55	2	armo55	1	Act 3 (N) Equip A	1275			36	1311	0.9725				0
-Act 4 (N) Equip A	1	56	1						weap46	2	armo46	1	weap49	6	armo49	3	weap52	14	armo52	7	weap55	6	armo55	3	Act 3 (N) Equip B	1530			42	1572	0.9733				0
-Act 4 (N) Equip B	1	58	1						weap49	2	armo49	1	weap52	6	armo52	3	weap55	14	armo55	7	weap58	2	armo58	1	Act 4 (N) Equip A	1360			36	1396	0.9742				0
-Act 4 (N) Equip C	1	60	1						weap49	2	armo49	1	weap52	6	armo52	3	weap55	14	armo55	7	weap58	6	armo58	3	Act 4 (N) Equip A	1658			42	1700	0.9753				0
-Act 5 (N) Equip A	1	62	1						weap52	2	armo52	1	weap55	6	armo55	3	weap58	14	armo58	7	weap61	2	armo61	1	Act 4 (N) Equip B	1445			36	1481	0.9757				0
-Act 5 (N) Equip B	1	64	1						weap52	2	armo52	1	weap55	6	armo55	3	weap58	14	armo58	7	weap61	6	armo61	3	Act 5 (N) Equip A	1743			42	1785	0.9765				0
-Act 5 (N) Equip C	1	66	1						weap55	2	armo55	1	weap58	6	armo58	3	weap61	14	armo61	7	weap64	2	armo64	1	Act 5 (N) Equip B	1530			36	1566	0.9770				0
-Act 1 (H) Equip A	1	68	1						weap55	2	armo55	1	weap58	6	armo58	3	weap61	14	armo61	7	weap64	6	armo64	3	Act 5 (N) Equip C	1785			42	1827	0.9770				0
-Act 1 (H) Equip B	1	70	1						weap58	2	armo58	1	weap61	6	armo61	3	weap64	14	armo64	7	weap67	2	armo67	1	Act 1 (H) Equip A	1530			36	1566	0.9770				0
-Act 1 (H) Equip C	1	71	1						weap58	2	armo58	1	weap61	6	armo61	3	weap64	14	armo64	7	weap67	6	armo67	3	Act 1 (H) Equip A	1785			42	1827	0.9770				0
-Act 2 (H) Equip A	1	73	1						weap61	2	armo61	1	weap64	6	armo64	3	weap67	14	armo67	7	weap70	2	armo70	1	Act 1 (H) Equip B	1530			36	1566	0.9770				0
-Act 2 (H) Equip B	1	75	1						weap61	2	armo61	1	weap64	6	armo64	3	weap67	14	armo67	7	weap70	6	armo70	3	Act 2 (H) Equip A	1785			42	1827	0.9770				0
-Act 2 (H) Equip C	1	76	1						weap64	2	armo64	1	weap67	6	armo67	3	weap70	14	armo70	7	weap73	2	armo73	1	Act 2 (H) Equip A	1530			36	1566	0.9770				0
-Act 3 (H) Equip A	1	77	1						weap64	2	armo64	1	weap67	6	armo67	3	weap70	14	armo70	7	weap73	6	armo73	3	Act 2 (H) Equip B	1785			42	1827	0.9770				0
-Act 3 (H) Equip B	1	78	1						weap67	2	armo67	1	weap70	6	armo70	3	weap73	14	armo73	7	weap76	2	armo76	1	Act 3 (H) Equip A	1530			36	1566	0.9770				0
-Act 3 (H) Equip C	1	79	1						weap67	2	armo67	1	weap70	6	armo70	3	weap73	14	armo73	7	weap76	6	armo76	3	Act 3 (H) Equip A	1785			42	1827	0.9770				0
-Act 4 (H) Equip A	1	80	1						weap70	2	armo70	1	weap73	6	armo73	3	weap76	14	armo76	7	weap79	2	armo79	1	Act 3 (H) Equip B	1530			36	1566	0.9770				0
-Act 4 (H) Equip B	1	81	1						weap70	2	armo70	1	weap73	6	armo73	3	weap76	14	armo76	7	weap79	6	armo79	3	Act 4 (H) Equip A	1785			42	1827	0.9770				0
-Act 4 (H) Equip C	1	82	1						weap73	2	armo73	1	weap76	6	armo76	3	weap79	14	armo79	7	weap82	2	armo82	1	Act 4 (H) Equip A	1530			36	1566	0.9770				0
-Act 5 (H) Equip A	1	83	1						weap76	2	armo76	1	weap79	6	armo79	3	weap82	14	armo82	7	weap85	2	armo85	1	Act 4 (H) Equip B	1530			36	1566	0.9770				0
-Act 5 (H) Equip B	1	84	1						weap79	2	armo79	1	weap82	6	armo82	3	weap85	14	armo85	7	weap87	2	armo87	1	Act 5 (H) Equip A	1530			36	1566	0.9770				0
-Act 5 (H) Equip C	1	85	1						weap82	2	armo82	1	weap85	6	armo85	3	weap87	14	armo87	7	weap87	1	armo87	1	Act 5 (H) Equip B	1530			35	1565	0.9776				0
-Act 1 Melee A	2	0	1						mele4	7	armo4	7																							0
-Act 1 Melee B	2	5	1						mele4	3	armo4	3	mele7	7	armo7	7																			0
-Act 1 Melee C	2	9	1						mele4	2	armo4	1	mele7	6	armo7	3	mele10	14	armo10	7	mele13	2	armo13	1											0
-Act 2 Melee A	2	12	1						mele7	2	armo7	1	mele10	6	armo10	3	mele13	14	armo13	7	mele16	2	armo16	1	Act 1 Melee C	30			36	66	0.4545				0
-Act 2 Melee B	2	15	1						mele10	2	armo10	1	mele13	6	armo13	3	mele16	14	armo16	7	mele19	2	armo19	1	Act 2 Melee A	60			36	96	0.6250				0
-Act 2 Melee C	2	18	1						mele13	2	armo13	1	mele16	6	armo16	3	mele19	14	armo19	7	mele22	2	armo22	1	Act 2 Melee B	90			36	126	0.7143				0
-Act 3 Melee A	2	20	1						mele16	2	armo16	1	mele19	6	armo19	3	mele22	14	armo22	7	mele25	2	armo25	1	Act 2 Melee C	120			36	156	0.7692				0
-Act 3 Melee B	2	22	1						mele19	2	armo19	1	mele22	6	armo22	3	mele25	14	armo25	7	mele28	2	armo28	1	Act 3 Melee A	150			36	186	0.8065				0
-Act 3 Melee C	2	24	1						mele22	2	armo22	1	mele25	6	armo25	3	mele28	14	armo28	7	mele31	2	armo31	1	Act 3 Melee B	180			36	216	0.8333				0
-Act 4 Melee A	2	26	1						mele25	2	armo25	1	mele28	6	armo28	3	mele31	14	armo31	4	mele34	2	armo34	1	Act 3 Melee C	210			33	243	0.8642				0
-Act 4 Melee B	2	29	1						mele28	2	armo28	1	mele31	6	armo31	3	mele34	14	armo34	3	mele37	2	armo37	1	Act 4 Melee A	260			32	292	0.8904				0
-Act 5 Melee A	2	32	1						mele28	2	armo28	1	mele31	6	armo31	3	mele34	14	armo34	3	mele37	7	armo37	5	Act 4 Melee B	400			41	441	0.9070				0
-Act 5 Melee B	2	34	1						mele31	2	armo31	1	mele34	6	armo34	2	mele37	14	armo37	7	mele40	2	armo40	1	Act 5 Melee A	489			35	524	0.9332				0
-Act 5 Melee C	2	36	1						mele31	2	armo31	1	mele34	6	armo34	2	mele37	14	armo37	7	mele40	2	armo40	1	Act 5 Melee B	629			35	664	0.9473				0
-Act 1 (N) Melee A	2	38	1						weap34	2	armo34	1	weap37	6	armo37	3	weap40	14	armo40	7	weap43	2	armo43	1	Act 5 Melee C	769			36	805	0.9553				0
-Act 1 (N) Melee B	2	40	1						weap37	2	armo37	1	weap40	6	armo40	3	weap43	14	armo43	7	weap46	2	armo46	1	Act 1 (N) Melee A	935			36	971	0.9629				0
-Act 2 (N) Melee A	2	42	1						weap37	2	armo37	1	weap40	6	armo40	3	weap43	14	armo43	7	weap46	6	armo46	3	Act 1 (N) Melee B	1148			42	1190	0.9647				0
-Act 2 (N) Melee B	2	44	1						weap40	2	armo40	1	weap43	6	armo43	3	weap46	14	armo46	7	weap49	2	armo49	1	Act 2 (N) Melee A	1020			36	1056	0.9659				0
-Act 3 (N) Melee A	2	46	1						weap43	2	armo43	1	weap46	6	armo46	3	weap49	14	armo49	7	weap52	2	armo52	1	Act 2 (N) Melee B	1063			36	1099	0.9672				0
-Act 3 (N) Melee B	2	48	1						weap46	2	armo46	1	weap49	6	armo49	3	weap52	14	armo52	7	weap55	2	armo55	1	Act 3 (N) Melee A	1105			36	1141	0.9684				0
-Act 4 (N) Melee A	2	51	1						weap46	2	armo46	1	weap49	6	armo49	3	weap52	14	armo52	7	weap55	6	armo55	3	Act 3 (N) Melee B	1339			42	1381	0.9696				0
-Act 4 (N) Melee B	2	54	1						weap49	2	armo49	1	weap52	6	armo52	3	weap55	14	armo55	7	weap58	2	armo58	1	Act 4 (N) Melee A	1190			36	1226	0.9706				0
-Act 5 (N) Melee A	2	57	1						weap52	2	armo52	1	weap55	6	armo55	3	weap58	14	armo58	7	weap61	2	armo61	1	Act 4 (N) Melee B	1275			36	1311	0.9725				0
-Act 5 (N) Melee B	2	60	1						weap52	2	armo52	1	weap55	6	armo55	3	weap58	14	armo58	7	weap61	6	armo61	3	Act 5 (N) Melee A	1743			42	1785	0.9765				0
-Act 5 (N) Melee C	2	63	1						weap55	2	armo55	1	weap58	6	armo58	3	weap61	14	armo61	7	weap64	2	armo64	1	Act 5 (N) Melee B	1530			36	1566	0.9770				0
-Act 1 (H) Melee A	2	66	1						weap55	2	armo55	1	weap58	6	armo58	3	weap61	14	armo61	7	weap64	6	armo64	3	Act 5 (N) Melee C	1781			42	1823	0.9770				0
-Act 1 (H) Melee B	2	68	1						weap58	2	armo58	1	weap61	6	armo61	3	weap64	14	armo64	7	weap67	2	armo67	1	Act 1 (H) Melee A	1530			36	1566	0.9770				0
-Act 2 (H) Melee A	2	71	1						weap61	2	armo61	1	weap64	6	armo64	3	weap67	14	armo67	7	weap70	2	armo70	1	Act 1 (H) Melee B	1530			36	1566	0.9770				0
-Act 2 (H) Melee B	2	73	1						weap64	2	armo64	1	weap67	6	armo67	3	weap70	14	armo70	7	weap73	2	armo73	1	Act 2 (H) Melee A	1530			36	1566	0.9770				0
-Act 3 (H) Melee A	2	75	1						weap64	2	armo64	1	weap67	6	armo67	3	weap70	14	armo70	7	weap73	6	armo73	3	Act 2 (H) Melee B	1781			42	1823	0.9770				0
-Act 3 (H) Melee B	2	77	1						weap67	2	armo67	1	weap70	6	armo70	3	weap73	14	armo73	7	weap76	2	armo76	1	Act 3 (H) Melee A	1530			36	1566	0.9770				0
-Act 4 (H) Melee A	2	79	1						weap70	2	armo70	1	weap73	6	armo73	3	weap76	14	armo76	7	weap79	2	armo79	1	Act 3 (H) Melee B	1530			36	1566	0.9770				0
-Act 4 (H) Melee B	2	80	1						weap73	2	armo73	1	weap76	6	armo76	3	weap79	14	armo79	7	weap82	2	armo82	1	Act 4 (H) Melee A	1530			36	1566	0.9770				0
-Act 5 (H) Melee A	2	81	1						weap76	2	armo76	1	weap79	6	armo79	3	weap82	14	armo82	7	weap85	2	armo85	1	Act 4 (H) Melee B	1530			36	1566	0.9770				0
-Act 5 (H) Melee B	2	83	1						weap79	2	armo79	1	weap82	6	armo82	3	weap85	14	armo85	7	weap87	2	armo87	1	Act 5 (H) Melee A	1530			36	1566	0.9770				0
-Act 5 (H) Melee C	2	85	1						weap82	2	armo82	1	weap85	6	armo85	3	weap87	14	armo87	7	weap87	1	armo87	1	Act 5 (H) Melee B	1530			35	1565	0.9776				0
-Act 1 Bow A	3	0	1						bow4	36																									0
-Act 1 Bow B	3	5	1						bow4	20	bow7	16																							0
-Act 1 Bow C	3	9	1						bow4	10	bow7	16	bow10	10																					0
-Act 2 Bow A	3	12	1						bow4	3	bow7	15	bow10	15	bow13	3																			0
-Act 2 Bow B	3	15	1						bow4	1	bow7	7	bow10	20	bow13	7	bow16	1																	0
-Act 2 Bow C	3	18	1						bow4	1	bow7	3	bow10	14	bow13	14	bow16	3	bow19	1															0
-Act 3 Bow A	3	20	1						bow4	1	bow7	3	bow10	6	bow13	12	bow16	6	bow19	3	bow22	1													0
-Act 3 Bow B	3	22	1						bow4	1	bow7	3	bow10	6	bow13	8	bow16	8	bow19	6	bow22	3	bow25	1											0
-Act 3 Bow C	3	24	1						bow4	1	bow7	2	bow10	5	bow13	7	bow16	8	bow19	7	bow22	4	bow25	2											0
-Act 4 Bow A	3	26	1						bow7	1	bow10	3	bow13	6	bow16	8	bow19	8	bow22	6	bow25	3	bow28	1	Act 3 Bow C	110			36	146	0.7534				0
-Act 4 Bow B	3	29	1						bow7	1	bow10	2	bow13	5	bow16	7	bow19	8	bow22	7	bow25	4	bow28	2	Act 4 Bow A	180			36	216	0.8333				0
-Act 5 Bow A	3	32	1						bow10	1	bow13	3	bow16	6	bow19	8	bow22	8	bow25	6	bow28	3	bow31	1	Act 4 Bow B	270			36	306	0.8824				0
-Act 5 Bow B	3	34	1						bow10	1	bow13	2	bow16	5	bow19	7	bow22	8	bow25	7	bow28	4	bow31	2	Act 5 Bow A	380			36	416	0.9135				0
-Act 5 Bow C	3	36	1						bow10	1	bow13	2	bow16	5	bow19	7	bow22	8	bow25	7	bow28	4	bow31	2	Act 5 Bow B	500			36	536	0.9328				0
-Act 1 (N) Bow A	3	38	1						bow13	1	bow16	2	bow19	5	bow22	7	bow25	8	bow28	7	bow31	4	bow34	2	Act 5 Bow C	630			36	666	0.9459				0
-Act 1 (N) Bow B	3	40	1						bow16	1	bow19	2	bow22	5	bow25	7	bow28	8	bow31	7	bow34	4	bow37	2	Act 1 (N) Bow A	770			36	806	0.9553				0
-Act 2 (N) Bow A	3	42	1						bow19	1	bow22	2	bow25	5	bow28	7	bow31	8	bow34	7	bow37	4	bow40	2	Act 1 (N) Bow B	920			36	956	0.9623				0
-Act 2 (N) Bow B	3	44	1						bow22	1	bow25	2	bow28	5	bow31	7	bow34	8	bow37	7	bow40	4	bow43	2	Act 2 (N) Bow A	1070			36	1106	0.9675				0
-Act 3 (N) Bow A	3	46	1						bow25	1	bow28	2	bow31	5	bow34	7	bow37	8	bow40	7	bow43	4	bow46	2	Act 2 (N) Bow B	1220			36	1256	0.9713				0
-Act 3 (N) Bow B	3	48	1						bow28	1	bow31	2	bow34	5	bow37	7	bow40	8	bow43	7	bow46	4	bow49	2	Act 3 (N) Bow A	1370			36	1406	0.9744				0
-Act 4 (N) Bow A	3	51	1						bow31	1	bow34	2	bow37	5	bow40	7	bow43	8	bow46	7	bow49	4	bow52	2	Act 3 (N) Bow B	1520			36	1556	0.9769				0
-Act 4 (N) Bow B	3	54	1						bow34	1	bow37	2	bow40	5	bow43	7	bow46	8	bow49	7	bow52	4	bow55	2	Act 4 (N) Bow A	1670			36	1706	0.9789				0
-Act 5 (N) Bow A	3	57	1						bow37	1	bow40	2	bow43	5	bow46	7	bow49	8	bow52	7	bow55	4	bow58	2	Act 4 (N) Bow B	1820			36	1856	0.9806				0
-Act 5 (N) Bow B	3	60	1						bow40	1	bow43	2	bow46	5	bow49	7	bow52	8	bow55	7	bow58	4	bow61	2	Act 5 (N) Bow A	1970			36	2006	0.9821				0
-Act 5 (N) Bow C	3	63	1						bow43	1	bow46	2	bow49	5	bow52	7	bow55	8	bow58	7	bow61	4	bow64	2	Act 5 (N) Bow B	2120			36	2156	0.9833				0
-Act 1 (H) Bow A	3	66	1						bow46	1	bow49	2	bow52	5	bow55	7	bow58	8	bow61	7	bow64	4	bow67	2	Act 5 (N) Bow C	2270			36	2306	0.9844				0
-Act 1 (H) Bow B	3	69	1						bow49	1	bow52	2	bow55	5	bow58	7	bow61	8	bow64	7	bow67	4	bow70	2	Act 1 (H) Bow A	2270			36	2306	0.9844				0
-Act 2 (H) Bow A	3	71	1						bow52	1	bow55	2	bow58	5	bow61	7	bow64	8	bow67	7	bow70	4	bow73	2	Act 1 (H) Bow B	2270			36	2306	0.9844				0
-Act 2 (H) Bow B	3	73	1						bow55	1	bow58	2	bow61	5	bow64	7	bow67	8	bow70	7	bow73	4	bow76	2	Act 2 (H) Bow A	2270			36	2306	0.9844				0
-Act 3 (H) Bow A	3	75	1						bow58	1	bow61	2	bow64	5	bow67	7	bow70	8	bow73	7	bow76	4	bow79	2	Act 2 (H) Bow B	2270			36	2306	0.9844				0
-Act 3 (H) Bow B	3	77	1						bow61	1	bow64	2	bow67	5	bow70	7	bow73	8	bow76	7	bow79	4	bow82	2	Act 3 (H) Bow A	2270			36	2306	0.9844				0
-Act 4 (H) Bow A	3	79	1						bow64	1	bow67	2	bow70	5	bow73	7	bow76	8	bow79	7	bow82	4	bow85	2	Act 3 (H) Bow B	2270			36	2306	0.9844				0
-Act 4 (H) Bow B	3	80	1						bow67	1	bow70	2	bow73	5	bow76	7	bow79	8	bow82	7	bow85	2	bow85	1	Act 4 (H) Bow A	2080			33	2113	0.9844				0
-Act 5 (H) Bow A	3	82	1						bow70	1	bow73	2	bow76	5	bow79	7	bow82	8	bow85	7	bow87	2	bow87	1	Act 4 (H) Bow B	2080			33	2113	0.9844				0
-Act 5 (H) Bow B	3	83	1						bow73	1	bow76	2	bow79	5	bow82	7	bow85	8	bow87	7	bow87	2	bow87	1	Act 5 (H) Bow A	2080			33	2113	0.9844				0
-Act 5 (H) Bow C	3	85	1						bow76	1	bow79	2	bow82	5	bow85	7	bow87	8	bow87	1	bow87	1	bow87	1	Act 5 (H) Bow B	1655			26	1681	0.9845				0
+Act 1 Equip A	1	0	1						weap3	7	armo3	7																							0
+Act 1 Equip B	1	5	1						weap3	3	armo3	3	weap6	7	armo6	7																			0
+Act 1 Equip C	1	9	1						weap3	2	armo3	1	weap6	6	armo6	3	weap9	14	armo9	7	weap12	2	armo12	1											0
+Act 2 Equip A	1	12	1						weap6	2	armo6	1	weap9	6	armo9	3	weap12	14	armo12	7	weap15	2	armo15	1	Act 1 Equip C	30			36	66	0.4545				0
+Act 2 Equip B	1	15	1						weap12	2	armo12	1	weap15	6	armo15	3	weap18	14	armo18	7	weap21	2	armo21	1	Act 2 Equip A	60			36	96	0.6250				0
+Act 2 Equip C	1	18	1						weap15	2	armo15	1	weap18	6	armo18	3	weap21	14	armo21	7	weap24	2	armo24	1	Act 2 Equip B	80			36	116	0.6897				0
+Act 3 Equip A	1	20	1						weap18	2	armo18	1	weap21	6	armo21	3	weap24	14	armo24	7	weap27	2	armo27	1	Act 2 Equip C	100			36	136	0.7353				0
+Act 3 Equip B	1	22	1						weap21	2	armo21	1	weap24	6	armo24	3	weap27	14	armo27	7	weap30	2	armo30	1	Act 3 Equip A	200			36	236	0.8475				0
+Act 3 Equip C	1	24	1						weap24	2	armo24	1	weap27	6	armo27	3	weap30	14	armo30	7	weap33	2	armo33	1	Act 3 Equip B	340			36	376	0.9043				0
+Act 4 Equip A	1	26	1						weap27	2	armo27	1	weap30	6	armo30	3	weap33	14	armo33	4	weap36	2	armo36	1	Act 3 Equip C	430			33	463	0.9287				0
+Act 4 Equip B	1	29	1						weap33	2	armo33	1	weap36	6	armo36	3	weap39	14	armo39	3	weap42	2	armo42	1	Act 4 Equip A	500			32	532	0.9398				0
+Act 5 Equip A	1	32	1						weap33	2	armo33	1	weap36	6	armo36	3	weap39	14	armo39	3	weap42	7	armo42	5	Act 4 Equip B	629			41	670	0.9388				0
+Act 5 Equip B	1	34	1						weap36	2	armo36	1	weap39	6	armo39	2	weap42	14	armo42	7	weap45	2	armo45	1	Act 5 Equip A	731			35	766	0.9543				0
+Act 5 Equip C	1	36	1						weap36	2	armo36	1	weap39	6	armo39	2	weap42	14	armo42	7	weap45	2	armo45	1	Act 5 Equip B	833			35	868	0.9597				0
+Act 1 (N) Equip A	1	38	1						weap39	2	armo39	1	weap42	6	armo42	3	weap45	14	armo45	7	weap48	2	armo48	1	Act 5 Equip C	935			36	971	0.9629				0
+Act 1 (N) Equip B	1	40	1						weap42	2	armo42	1	weap45	6	armo45	3	weap48	14	armo48	7	weap51	6	armo51	3	Act 1 (N) Equip A	1105			42	1147	0.9634				0
+Act 1 (N) Equip C	1	42	1						weap45	2	armo45	1	weap48	6	armo48	3	weap51	14	armo51	7	weap54	2	armo54	1	Act 1 (N) Equip A	1020			36	1056	0.9659				0
+Act 2 (N) Equip A	1	44	1						weap45	2	armo45	1	weap48	6	armo48	3	weap51	14	armo51	7	weap54	6	armo54	3	Act 1 (N) Equip B	1233			42	1275	0.9671				0
+Act 2 (N) Equip B	1	46	1						weap48	2	armo48	1	weap51	6	armo51	3	weap54	14	armo54	7	weap57	2	armo57	1	Act 2 (N) Equip A	1105			36	1141	0.9684				0
+Act 2 (N) Equip C	1	48	1						weap48	2	armo48	1	weap51	6	armo51	3	weap54	14	armo54	7	weap57	6	armo57	3	Act 2 (N) Equip A	1318			42	1360	0.9691				0
+Act 3 (N) Equip A	1	50	1						weap51	2	armo51	1	weap54	6	armo54	3	weap57	14	armo57	7	weap60	2	armo60	1	Act 2 (N) Equip B	1190			36	1226	0.9706				0
+Act 3 (N) Equip B	1	52	1						weap51	2	armo51	1	weap54	6	armo54	3	weap57	14	armo57	7	weap60	6	armo60	3	Act 3 (N) Equip A	1445			42	1487	0.9718				0
+Act 3 (N) Equip C	1	54	1						weap57	2	armo57	1	weap60	6	armo60	3	weap63	14	armo63	7	weap66	2	armo66	1	Act 3 (N) Equip A	1275			36	1311	0.9725				0
+Act 4 (N) Equip A	1	56	1						weap57	2	armo57	1	weap60	6	armo60	3	weap63	14	armo63	7	weap66	6	armo66	3	Act 3 (N) Equip B	1530			42	1572	0.9733				0
+Act 4 (N) Equip B	1	58	1						weap60	2	armo60	1	weap63	6	armo63	3	weap66	14	armo66	7	weap69	2	armo69	1	Act 4 (N) Equip A	1360			36	1396	0.9742				0
+Act 4 (N) Equip C	1	60	1						weap60	2	armo60	1	weap63	6	armo63	3	weap66	14	armo66	7	weap69	6	armo69	3	Act 4 (N) Equip A	1658			42	1700	0.9753				0
+Act 5 (N) Equip A	1	62	1						weap63	2	armo63	1	weap66	6	armo66	3	weap69	14	armo69	7	weap72	2	armo72	1	Act 4 (N) Equip B	1445			36	1481	0.9757				0
+Act 5 (N) Equip B	1	64	1						weap63	2	armo63	1	weap66	6	armo66	3	weap69	14	armo69	7	weap72	6	armo72	3	Act 5 (N) Equip A	1743			42	1785	0.9765				0
+Act 5 (N) Equip C	1	66	1						weap69	2	armo69	1	weap72	6	armo72	3	weap75	14	armo75	7	weap78	2	armo78	1	Act 5 (N) Equip B	1530			36	1566	0.9770				0
+Act 1 (H) Equip A	1	68	1						weap69	2	armo69	1	weap72	6	armo72	3	weap75	14	armo75	7	weap78	6	armo78	3	Act 5 (N) Equip C	1785			42	1827	0.9770				0
+Act 1 (H) Equip B	1	70	1						weap72	2	armo72	1	weap75	6	armo75	3	weap78	14	armo78	7	weap81	2	armo81	1	Act 1 (H) Equip A	1530			36	1566	0.9770				0
+Act 1 (H) Equip C	1	71	1						weap72	2	armo72	1	weap75	6	armo75	3	weap78	14	armo78	7	weap81	6	armo81	3	Act 1 (H) Equip A	1785			42	1827	0.9770				0
+Act 2 (H) Equip A	1	73	1						weap75	2	armo75	1	weap78	6	armo78	3	weap81	14	armo81	7	weap84	2	armo84	1	Act 1 (H) Equip B	1530			36	1566	0.9770				0
+Act 2 (H) Equip B	1	75	1						weap75	2	armo75	1	weap78	6	armo78	3	weap81	14	armo81	7	weap84	6	armo84	3	Act 2 (H) Equip A	1785			42	1827	0.9770				0
+Act 2 (H) Equip C	1	76	1						weap78	2	armo78	1	weap81	6	armo81	3	weap84	14	armo84	7	weap87	2	armo87	1	Act 2 (H) Equip A	1530			36	1566	0.9770				0
+Act 3 (H) Equip A	1	77	1						weap78	2	armo78	1	weap81	6	armo81	3	weap84	14	armo84	7	weap87	6	armo87	3	Act 2 (H) Equip B	1785			42	1827	0.9770				0
+Act 3 (H) Equip B	1	78	1						weap81	2	armo81	1	weap84	6	armo84	3	weap87	14	armo87	7	weap87	2	armo87	1	Act 3 (H) Equip A	1530			36	1566	0.9770				0
+Act 3 (H) Equip C	1	79	1						weap84	2	armo84	1	weap87	6	armo87	3	weap87	14	armo87	7	weap87	6	armo87	3	Act 3 (H) Equip A	1785			42	1827	0.9770				0
+Act 4 (H) Equip A	1	80	1						weap87	2	armo87	1	weap87	6	armo87	3	weap87	14	armo87	7	weap87	2	armo87	1	Act 3 (H) Equip B	1530			36	1566	0.9770				0
+Act 4 (H) Equip B	1	81	1						weap87	2	armo87	1	weap87	6	armo87	3	weap87	14	armo87	7	weap87	6	armo87	3	Act 4 (H) Equip A	1785			42	1827	0.9770				0
+Act 4 (H) Equip C	1	82	1						weap87	2	armo87	1	weap87	6	armo87	3	weap87	14	armo87	7	weap87	2	armo87	1	Act 4 (H) Equip A	1530			36	1566	0.9770				0
+Act 5 (H) Equip A	1	83	1						weap87	2	armo87	1	weap87	6	armo87	3	weap87	14	armo87	7	weap87	2	armo87	1	Act 4 (H) Equip B	1530			36	1566	0.9770				0
+Act 5 (H) Equip B	1	84	1						weap87	2	armo87	1	weap87	6	armo87	3	weap87	14	armo87	7	weap87	2	armo87	1	Act 5 (H) Equip A	1530			36	1566	0.9770				0
+Act 5 (H) Equip C	1	85	1						weap87	2	armo87	1	weap87	6	armo87	3	weap87	14	armo87	7	weap87	1	armo87	1	Act 5 (H) Equip B	1530			35	1565	0.9776				0
+Act 1 Melee A	2	0	1						mele3	7	armo3	7																							0
+Act 1 Melee B	2	5	1						mele3	3	armo3	3	mele6	7	armo6	7																			0
+Act 1 Melee C	2	9	1						mele3	2	armo3	1	mele6	6	armo6	3	mele9	14	armo9	7	mele12	2	armo12	1											0
+Act 2 Melee A	2	12	1						mele6	2	armo6	1	mele9	6	armo9	3	mele12	14	armo12	7	mele15	2	armo15	1	Act 1 Melee C	30			36	66	0.4545				0
+Act 2 Melee B	2	15	1						mele12	2	armo12	1	mele15	6	armo15	3	mele18	14	armo18	7	mele21	2	armo21	1	Act 2 Melee A	60			36	96	0.6250				0
+Act 2 Melee C	2	18	1						mele15	2	armo15	1	mele18	6	armo18	3	mele21	14	armo21	7	mele24	2	armo24	1	Act 2 Melee B	90			36	126	0.7143				0
+Act 3 Melee A	2	20	1						mele18	2	armo18	1	mele21	6	armo21	3	mele24	14	armo24	7	mele27	2	armo27	1	Act 2 Melee C	120			36	156	0.7692				0
+Act 3 Melee B	2	22	1						mele21	2	armo21	1	mele24	6	armo24	3	mele27	14	armo27	7	mele30	2	armo30	1	Act 3 Melee A	150			36	186	0.8065				0
+Act 3 Melee C	2	24	1						mele24	2	armo24	1	mele27	6	armo27	3	mele30	14	armo30	7	mele33	2	armo33	1	Act 3 Melee B	180			36	216	0.8333				0
+Act 4 Melee A	2	26	1						mele27	2	armo27	1	mele30	6	armo30	3	mele33	14	armo33	4	mele36	2	armo36	1	Act 3 Melee C	210			33	243	0.8642				0
+Act 4 Melee B	2	29	1						mele33	2	armo33	1	mele36	6	armo36	3	mele39	14	armo39	3	mele42	2	armo42	1	Act 4 Melee A	260			32	292	0.8904				0
+Act 5 Melee A	2	32	1						mele33	2	armo33	1	mele36	6	armo36	3	mele39	14	armo39	3	mele42	7	armo42	5	Act 4 Melee B	400			41	441	0.9070				0
+Act 5 Melee B	2	34	1						mele36	2	armo36	1	mele39	6	armo39	2	mele42	14	armo42	7	mele45	2	armo45	1	Act 5 Melee A	489			35	524	0.9332				0
+Act 5 Melee C	2	36	1						mele36	2	armo36	1	mele39	6	armo39	2	mele42	14	armo42	7	mele45	2	armo45	1	Act 5 Melee B	629			35	664	0.9473				0
+Act 1 (N) Melee A	2	38	1						weap39	2	armo39	1	weap42	6	armo42	3	weap45	14	armo45	7	weap48	2	armo48	1	Act 5 Melee C	769			36	805	0.9553				0
+Act 1 (N) Melee B	2	40	1						weap45	2	armo45	1	weap48	6	armo48	3	weap51	14	armo51	7	weap54	2	armo54	1	Act 1 (N) Melee A	935			36	971	0.9629				0
+Act 2 (N) Melee A	2	42	1						weap45	2	armo45	1	weap48	6	armo48	3	weap51	14	armo51	7	weap54	6	armo54	3	Act 1 (N) Melee B	1148			42	1190	0.9647				0
+Act 2 (N) Melee B	2	44	1						weap48	2	armo48	1	weap51	6	armo51	3	weap54	14	armo54	7	weap57	2	armo57	1	Act 2 (N) Melee A	1020			36	1056	0.9659				0
+Act 3 (N) Melee A	2	46	1						weap51	2	armo51	1	weap54	6	armo54	3	weap57	14	armo57	7	weap60	2	armo60	1	Act 2 (N) Melee B	1063			36	1099	0.9672				0
+Act 3 (N) Melee B	2	48	1						weap54	2	armo54	1	weap57	6	armo57	3	weap60	14	armo60	7	weap63	2	armo63	1	Act 3 (N) Melee A	1105			36	1141	0.9684				0
+Act 4 (N) Melee A	2	51	1						weap54	2	armo54	1	weap57	6	armo57	3	weap60	14	armo60	7	weap63	6	armo63	3	Act 3 (N) Melee B	1339			42	1381	0.9696				0
+Act 4 (N) Melee B	2	54	1						weap60	2	armo60	1	weap63	6	armo63	3	weap66	14	armo66	7	weap69	2	armo69	1	Act 4 (N) Melee A	1190			36	1226	0.9706				0
+Act 5 (N) Melee A	2	57	1						weap63	2	armo63	1	weap66	6	armo66	3	weap69	14	armo69	7	weap72	2	armo72	1	Act 4 (N) Melee B	1275			36	1311	0.9725				0
+Act 5 (N) Melee B	2	60	1						weap63	2	armo63	1	weap66	6	armo66	3	weap69	14	armo69	7	weap72	6	armo72	3	Act 5 (N) Melee A	1743			42	1785	0.9765				0
+Act 5 (N) Melee C	2	63	1						weap66	2	armo66	1	weap69	6	armo69	3	weap72	14	armo72	7	weap75	2	armo75	1	Act 5 (N) Melee B	1530			36	1566	0.9770				0
+Act 1 (H) Melee A	2	66	1						weap69	2	armo69	1	weap72	6	armo72	3	weap75	14	armo75	7	weap78	6	armo78	3	Act 5 (N) Melee C	1781			42	1823	0.9770				0
+Act 1 (H) Melee B	2	68	1						weap72	2	armo72	1	weap75	6	armo75	3	weap78	14	armo78	7	weap81	2	armo81	1	Act 1 (H) Melee A	1530			36	1566	0.9770				0
+Act 2 (H) Melee A	2	71	1						weap75	2	armo75	1	weap78	6	armo78	3	weap81	14	armo81	7	weap84	2	armo84	1	Act 1 (H) Melee B	1530			36	1566	0.9770				0
+Act 2 (H) Melee B	2	73	1						weap78	2	armo78	1	weap81	6	armo81	3	weap84	14	armo84	7	weap87	2	armo87	1	Act 2 (H) Melee A	1530			36	1566	0.9770				0
+Act 3 (H) Melee A	2	75	1						weap78	2	armo78	1	weap81	6	armo81	3	weap84	14	armo84	7	weap87	6	armo87	3	Act 2 (H) Melee B	1781			42	1823	0.9770				0
+Act 3 (H) Melee B	2	77	1						weap81	2	armo81	1	weap84	6	armo84	3	weap87	14	armo87	7	weap87	2	armo87	1	Act 3 (H) Melee A	1530			36	1566	0.9770				0
+Act 4 (H) Melee A	2	79	1						weap87	2	armo87	1	weap87	6	armo87	3	weap87	14	armo87	7	weap87	2	armo87	1	Act 3 (H) Melee B	1530			36	1566	0.9770				0
+Act 4 (H) Melee B	2	80	1						weap87	2	armo87	1	weap87	6	armo87	3	weap87	14	armo87	7	weap87	2	armo87	1	Act 4 (H) Melee A	1530			36	1566	0.9770				0
+Act 5 (H) Melee A	2	81	1						weap87	2	armo87	1	weap87	6	armo87	3	weap87	14	armo87	7	weap87	2	armo87	1	Act 4 (H) Melee B	1530			36	1566	0.9770				0
+Act 5 (H) Melee B	2	83	1						weap87	2	armo87	1	weap87	6	armo87	3	weap87	14	armo87	7	weap87	2	armo87	1	Act 5 (H) Melee A	1530			36	1566	0.9770				0
+Act 5 (H) Melee C	2	85	1						weap87	2	armo87	1	weap87	6	armo87	3	weap87	14	armo87	7	weap87	1	armo87	1	Act 5 (H) Melee B	1530			35	1565	0.9776				0
+Act 1 Bow A	3	0	1						bow3	36																									0
+Act 1 Bow B	3	5	1						bow3	20	bow6	16																							0
+Act 1 Bow C	3	9	1						bow3	10	bow6	16	bow9	10																					0
+Act 2 Bow A	3	12	1						bow3	3	bow6	15	bow9	15	bow12	3																			0
+Act 2 Bow B	3	15	1						bow6	1	bow9	7	bow12	20	bow15	7	bow18	1																	0
+Act 2 Bow C	3	18	1						bow6	1	bow9	3	bow12	14	bow15	14	bow18	3	bow21	1															0
+Act 3 Bow A	3	20	1						bow6	1	bow9	3	bow12	6	bow15	12	bow18	6	bow21	3	bow24	1													0
+Act 3 Bow B	3	22	1						bow6	1	bow9	3	bow12	6	bow15	8	bow18	8	bow21	6	bow24	3	bow27	1											0
+Act 3 Bow C	3	24	1						bow6	1	bow9	2	bow12	5	bow15	7	bow18	8	bow21	7	bow24	4	bow27	2											0
+Act 4 Bow A	3	26	1						bow9	1	bow12	3	bow15	6	bow18	8	bow21	8	bow24	6	bow27	3	bow30	1	Act 3 Bow C	110			36	146	0.7534				0
+Act 4 Bow B	3	29	1						bow12	1	bow15	2	bow18	5	bow21	7	bow24	8	bow27	7	bow30	4	bow33	2	Act 4 Bow A	180			36	216	0.8333				0
+Act 5 Bow A	3	32	1						bow15	1	bow18	3	bow21	6	bow24	8	bow27	8	bow30	6	bow33	3	bow36	1	Act 4 Bow B	270			36	306	0.8824				0
+Act 5 Bow B	3	34	1						bow15	1	bow18	2	bow21	5	bow24	7	bow27	8	bow30	7	bow33	4	bow36	2	Act 5 Bow A	380			36	416	0.9135				0
+Act 5 Bow C	3	36	1						bow15	1	bow18	2	bow21	5	bow24	7	bow27	8	bow30	7	bow33	4	bow36	2	Act 5 Bow B	500			36	536	0.9328				0
+Act 1 (N) Bow A	3	38	1						bow18	1	bow21	2	bow24	5	bow27	7	bow30	8	bow33	7	bow36	4	bow39	2	Act 5 Bow C	630			36	666	0.9459				0
+Act 1 (N) Bow B	3	40	1						bow24	1	bow27	2	bow30	5	bow33	7	bow36	8	bow39	7	bow42	4	bow45	2	Act 1 (N) Bow A	770			36	806	0.9553				0
+Act 2 (N) Bow A	3	42	1						bow27	1	bow30	2	bow33	5	bow36	7	bow39	8	bow42	7	bow45	4	bow48	2	Act 1 (N) Bow B	920			36	956	0.9623				0
+Act 2 (N) Bow B	3	44	1						bow30	1	bow33	2	bow36	5	bow39	7	bow42	8	bow45	7	bow48	4	bow51	2	Act 2 (N) Bow A	1070			36	1106	0.9675				0
+Act 3 (N) Bow A	3	46	1						bow33	1	bow36	2	bow39	5	bow42	7	bow45	8	bow48	7	bow51	4	bow54	2	Act 2 (N) Bow B	1220			36	1256	0.9713				0
+Act 3 (N) Bow B	3	48	1						bow36	1	bow39	2	bow42	5	bow45	7	bow48	8	bow51	7	bow54	4	bow57	2	Act 3 (N) Bow A	1370			36	1406	0.9744				0
+Act 4 (N) Bow A	3	51	1						bow39	1	bow42	2	bow45	5	bow48	7	bow51	8	bow54	7	bow57	4	bow60	2	Act 3 (N) Bow B	1520			36	1556	0.9769				0
+Act 4 (N) Bow B	3	54	1						bow45	1	bow48	2	bow51	5	bow54	7	bow57	8	bow60	7	bow63	4	bow66	2	Act 4 (N) Bow A	1670			36	1706	0.9789				0
+Act 5 (N) Bow A	3	57	1						bow48	1	bow51	2	bow54	5	bow57	7	bow60	8	bow63	7	bow66	4	bow69	2	Act 4 (N) Bow B	1820			36	1856	0.9806				0
+Act 5 (N) Bow B	3	60	1						bow51	1	bow54	2	bow57	5	bow60	7	bow63	8	bow66	7	bow69	4	bow72	2	Act 5 (N) Bow A	1970			36	2006	0.9821				0
+Act 5 (N) Bow C	3	63	1						bow54	1	bow57	2	bow60	5	bow63	7	bow66	8	bow69	7	bow72	4	bow75	2	Act 5 (N) Bow B	2120			36	2156	0.9833				0
+Act 1 (H) Bow A	3	66	1						bow60	1	bow63	2	bow66	5	bow69	7	bow72	8	bow75	7	bow78	4	bow81	2	Act 5 (N) Bow C	2270			36	2306	0.9844				0
+Act 1 (H) Bow B	3	69	1						bow63	1	bow66	2	bow69	5	bow72	7	bow75	8	bow78	7	bow81	4	bow84	2	Act 1 (H) Bow A	2270			36	2306	0.9844				0
+Act 2 (H) Bow A	3	71	1						bow66	1	bow69	2	bow72	5	bow75	7	bow78	8	bow81	7	bow84	4	bow87	2	Act 1 (H) Bow B	2270			36	2306	0.9844				0
+Act 2 (H) Bow B	3	73	1						bow69	1	bow72	2	bow75	5	bow78	7	bow81	8	bow84	7	bow87	4	bow87	2	Act 2 (H) Bow A	2270			36	2306	0.9844				0
+Act 3 (H) Bow A	3	75	1						bow72	1	bow75	2	bow78	5	bow81	7	bow84	8	bow87	7	bow87	4	bow87	2	Act 2 (H) Bow B	2270			36	2306	0.9844				0
+Act 3 (H) Bow B	3	77	1						bow75	1	bow78	2	bow81	5	bow84	7	bow87	8	bow87	7	bow87	4	bow87	2	Act 3 (H) Bow A	2270			36	2306	0.9844				0
+Act 4 (H) Bow A	3	79	1						bow81	1	bow84	2	bow87	5	bow87	7	bow87	8	bow87	7	bow87	4	bow87	2	Act 3 (H) Bow B	2270			36	2306	0.9844				0
+Act 4 (H) Bow B	3	80	1						bow84	1	bow87	2	bow87	5	bow87	7	bow87	8	bow87	7	bow87	2	bow87	1	Act 4 (H) Bow A	2080			33	2113	0.9844				0
+Act 5 (H) Bow A	3	82	1						bow87	1	bow87	2	bow87	5	bow87	7	bow87	8	bow87	7	bow87	2	bow87	1	Act 4 (H) Bow B	2080			33	2113	0.9844				0
+Act 5 (H) Bow B	3	83	1						bow87	1	bow87	2	bow87	5	bow87	7	bow87	8	bow87	7	bow87	2	bow87	1	Act 5 (H) Bow A	2080			33	2113	0.9844				0
+Act 5 (H) Bow C	3	85	1						bow87	1	bow87	2	bow87	5	bow87	7	bow87	8	bow87	1	bow87	1	bow87	1	Act 5 (H) Bow B	1655			26	1681	0.9845				0
 Act 1 Magic A	4	0	1						tsc	2	isc	4	mp1	6																					0
 Act 1 Magic B	4	5	1						tsc	2	isc	4	mp1	4	mp2	2																			0
 Act 1 Magic C	4	9	1						tsc	2	isc	4	mp1	2	mp2	4																			0
