@@ -3,12 +3,12 @@ baboon6	fade			1	1																										fade			2	2																										
 irongolem	fade			16	16																										fade			16	16																										fade			16	16																										0
 mephisto																															cast2			15	15	swing2			15	15																					cast2			30	30	swing2			30	30																					0
 blunderbore																															crush			15	15																										crush			25	25																										0
-councilmember1																															extra-fire			120	120																										extra-fire			300	300																										0
-councilmember2																															extra-fire			120	120																										extra-fire			300	300																										0
-councilmember3																															extra-fire			120	120																										extra-fire			300	300																										0
-baalhighpriest																															extra-fire			180	180																										extra-fire			360	360																										0
+councilmember1																															extra-fire			80	80																										extra-fire			200	200																										0
+councilmember2																															extra-fire			80	80																										extra-fire			200	200																										0
+councilmember3																															extra-fire			80	80																										extra-fire			200	200																										0
+baalhighpriest																															extra-fire			120	120																										extra-fire			240	240																										0
 bloodraven																																																													knock			1	1																										0
-quillrat6																															thorns			45	60																										thorns			90	120																										0
-quillrat7																															thorns			45	60																										thorns			90	120																										0
-quillrat8																															thorns			45	60																										thorns			90	120																										0
+quillrat6																															thorns			30	40																										thorns			60	80																										0
+quillrat7																															thorns			30	40																										thorns			60	80																										0
+quillrat8																															thorns			30	40																										thorns			60	80																										0
 druidhawk	stupidity			-1	-1																										stupidity			-1	-1																										stupidity			-1	-1																										0
